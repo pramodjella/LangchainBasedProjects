@@ -16,3 +16,13 @@ langchain_groq
 langserve
 sse_starlette
 uvicorn
+langchain
+langchain-openai
+python-dotenv
+streamlit
+langchain_core
+langchain_groq
+langchain_chroma
+langchain_huggingface
+faiss-cpu
+langchainhub
